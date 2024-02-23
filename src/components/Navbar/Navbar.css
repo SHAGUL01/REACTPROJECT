@@ -1,17 +1,18 @@
 
+
 #eee
 {
     position: relative;
     bottom: 20px;
     color: skyblue;
     font-size: 40px;
-     
 }
-
 
 @media screen and (max-width:676px)
 {
+
    #eee
+
 {
     font-size: 40px; 
     padding-left: 20px;

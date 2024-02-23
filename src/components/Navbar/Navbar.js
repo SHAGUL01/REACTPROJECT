@@ -16,6 +16,7 @@ const Navbar = () => {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+
       <ul class="nav navbar-nav super">
       <li class="navbar-brand" ><Link to="/" id="eee">SAMSUNG</Link></li>
       </ul>

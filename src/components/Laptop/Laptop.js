@@ -29,6 +29,9 @@ const Laptop=()=>{
            
             <img id="wee2" src={d1} ></img>
             
+=======
+          
+            <img id="wee2" src={d1} ></img>
            </div>
 
 
