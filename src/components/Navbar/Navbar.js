@@ -17,7 +17,7 @@ const Navbar = () => {
         <span class="icon-bar"></span>
       </button>
       <ul class="nav navbar-nav super">
-      <li ><Link to="/">SAMSUNG</Link></li>
+      <li class="navbar-brand" ><Link to="/" id="eee">SAMSUNG</Link></li>
       </ul>
     </div>
     <div class="collapse navbar-collapse" id="mynavbar">

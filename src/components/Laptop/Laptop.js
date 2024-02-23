@@ -3,8 +3,6 @@ import Laptop_pic from"../Assates/Laptop_pic";
 import MAin from "../All_use/All"
 import "../All.css"
 import "./Laptop.css"
-import dc from "../Assates/1 (5).jpg";
-import dd from "../Assates/1 (6).jpg";
 import we from "../Assates/we (1).jpg";
 import d1 from "../Assates/r22.jpg";
 
@@ -28,9 +26,9 @@ const Laptop=()=>{
             }
            </div>
            <div> 
-            <img id="wee1" src={dc} ></img>
+           
             <img id="wee2" src={d1} ></img>
-            <img id="wee1" src={dd} ></img>
+            
            </div>
 
 
