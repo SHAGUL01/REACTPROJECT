@@ -1,10 +1,7 @@
-.super
-{
-    font-size: 40px; 
-   
-}
+
 #ddd
 {
+    font-size: 40px; 
     position:relative;
     bottom:15px;
     color:sky blue;
@@ -14,7 +11,7 @@
 
 @media screen and (max-width:676px)
 {
-    .super
+    #ddd
 {
     font-size: 40px; 
     padding-left: 20px;
